@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "690220283526",
+    "firebase_url": "https://introduce-fea-2300f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "introduce-fea-2300f",
+    "storage_bucket": "introduce-fea-2300f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690220283526:android:27a94643b7e0d3e0e70307",
+        "android_client_info": {
+          "package_name": "com.example.introduce_fea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFErj3PTP9JDbQvRAxOKDXdgt0YsI0ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
